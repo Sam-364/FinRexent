@@ -1,0 +1,6 @@
+yfinance
+beautifulsoup4
+requests
+transformers
+pandas
+torch

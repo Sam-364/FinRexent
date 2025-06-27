@@ -1,0 +1,4 @@
+Warning: 'c' is not in the list of known options, but still passed to Electron/Chromium.
+libva error: /usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so init failed
+[26429:0627/151814.625619:ERROR:viz_main_impl.cc(185)] Exiting GPU process due to errors during initialization
+libva error: /usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so init failed

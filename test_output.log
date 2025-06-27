@@ -1,0 +1,5 @@
+libva error: /usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so init failed
+[26030:0627/151715.633870:ERROR:viz_main_impl.cc(185)] Exiting GPU process due to errors during initialization
+libva error: /usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so init failed
+[26093:0627/151715.790749:ERROR:viz_main_impl.cc(185)] Exiting GPU process due to errors during initialization
+libva error: /usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so init failed
