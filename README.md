@@ -238,19 +238,3 @@ pytest --cov=agent --cov=crawler
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
-
-This software is for educational and informational purposes only. It does not constitute financial advice. Always consult with a qualified financial advisor before making investment decisions. The authors are not responsible for any financial losses incurred through the use of this software.
-
-## 🆘 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/FinRexent/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/FinRexent/discussions)
-- **Email**: support@finrexent.com
-
-## 🔄 Updates
-
-Stay updated with the latest features and improvements:
-- Watch the repository for updates
-- Check the [CHANGELOG](CHANGELOG.md) for version history
-- Follow our [blog](https://blog.finrexent.com) for detailed guides 
